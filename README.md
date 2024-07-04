@@ -1,0 +1,1 @@
+Script that utilizes functions and methods to create a simple Rock, Paper, Scissor game. Game is played solely via the console.
